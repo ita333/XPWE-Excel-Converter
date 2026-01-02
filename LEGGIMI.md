@@ -1,9 +1,9 @@
 # Convertitore Computi XPWE <-> EXCEL
 
-Questo strumento permette di convertire file di computo metrico tra il formato **XPWE** (PriMus) e **Excel/XLSX**.
+Questo strumento permette di convertire file di computo metrico tra il formato **XPWE** (PriMus - Pitagora etc..) e **Excel/XLSX**.
 
 ## Caratteristiche
-- **Conversione XPWE -> Excel**: Estrae dati da PriMus in fogli Excel ordinati con categorie e subtotali.
+- **Conversione XPWE -> Excel**: Estrae dati da XPWE (come PriMus) in fogli Excel ordinati con categorie e subtotali.
 - **Conversione Excel -> XPWE**: Importa elenchi prezzi o computi da Excel direttamente in PriMus.
 - **Mappatura Intelligente**: Interfaccia grafica per associare le colonne di Excel ai campi PriMus, risolvendo ambiguità nei nomi delle colonne.
 - **Supporto Computi Semplici**: Gestisce file Excel con sole quantità totali o con dettagli di misurazione (N, Lunghezza, Larghezza, Altezza).
@@ -25,6 +25,13 @@ Se desideri eseguire il software tramite Python:
 ## Note Sulla Licenza
 Software rilasciato sotto licenza MIT. Libero per uso personale e commerciale.
 Consultare il file `LICENSE.txt` per i dettagli.
+
+## Supporta il progetto
+Se questo strumento ti aiuta nel tuo lavoro professionale, considera di supportare il suo sviluppo:
+- ☕ **Donazione singola**: [Offrimi un caffè](https://www.buymeacoffee.com/ITA333)
+- 🚀 **Abbonamento Mensile**: Diventa un membro su Buy Me a Coffee per un supporto continuo.
+
+Il tuo contributo mi aiuta a mantenere e migliorare questo strumento per tutta la comunità dei professionisti!
 
 ---
 Creato per facilitare l'interoperabilità nel settore dell'architettura e dell'ingegneria.

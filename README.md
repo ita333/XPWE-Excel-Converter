@@ -25,3 +25,10 @@ To run the software via Python:
 ## License
 Released under the MIT License. Free for personal and commercial use.
 See `LICENSE.txt` for details.
+
+## Support the project
+If this tool helps you in your professional work, consider supporting its development:
+- ☕ **One-time donation**: [Buy me a coffee](https://www.buymeacoffee.com/ITA333)
+- 🚀 **Monthly Membership**: Join as a member on Buy Me a Coffee for ongoing support.
+
+Your support helps me maintain and improve this tool for the community!
