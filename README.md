@@ -11,10 +11,10 @@ A tool to convert quantity survey files between **XPWE** (PriMus) and **Excel/XL
 
 ## Getting Started
 
-### Using the Executable (Recommended)
-1. Go to the `dist` folder.
-2. Run `xpwe_converter_app.exe`.
-3. Python is not required.
+### Using the Executable (Standalone)
+1. Go to the **[Releases](https://github.com/ita333/XPWE-Excel-Converter/releases)** section on the right side of the GitHub page.
+2. Download the `xpwe_converter_app.exe` file from the latest release.
+3. Run the file directly (it's a standalone app, no Python or installation needed).
 
 ### Using Source Code
 To run the software via Python:

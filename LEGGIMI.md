@@ -11,10 +11,10 @@ Questo strumento permette di convertire file di computo metrico tra il formato *
 
 ## Come iniziare
 
-### Uso dell'Eseguibile (Consigliato)
-1. Vai nella cartella `dist`.
-2. Avvia `xpwe_converter_app.exe`.
-3. Non è richiesto Python.
+### Uso dell'Eseguibile (Scaricamento diretto)
+1. Vai nella sezione **[Releases](https://github.com/ita333/XPWE-Excel-Converter/releases)** sulla destra della pagina GitHub.
+2. Scarica il file `xpwe_converter_app.exe` dall'ultima versione pubblicata.
+3. Avvia il file direttamente (non richiede installazione né Python).
 
 ### Uso del Codice Sorgente
 Se desideri eseguire il software tramite Python:
