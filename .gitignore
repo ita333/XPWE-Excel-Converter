@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Excel temporary files
+~$*
+
+# Local environment
+.venv/
+env/
+venv/
+.env
