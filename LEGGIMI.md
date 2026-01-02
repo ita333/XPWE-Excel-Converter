@@ -28,7 +28,7 @@ Consultare il file `LICENSE.txt` per i dettagli.
 
 ## Supporta il progetto
 Se questo strumento ti aiuta nel tuo lavoro professionale, considera di supportare il suo sviluppo:
-- ☕ **Donazione singola**: [Offrimi un caffè](https://www.buymeacoffee.com/ITA333)
+- ☕ **Donazione singola**: [Offrimi un caffè](https://www.buymeacoffee.com/ita333)
 - 🚀 **Abbonamento Mensile**: Diventa un membro su Buy Me a Coffee per un supporto continuo.
 
 Il tuo contributo mi aiuta a mantenere e migliorare questo strumento per tutta la comunità dei professionisti!
