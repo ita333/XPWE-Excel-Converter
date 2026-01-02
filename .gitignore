@@ -8,11 +8,15 @@ build/
 dist/
 *.spec
 
-# Excel temporary files
-~$*
+# Excel and XPWE data files
+*.xlsx
+*.xpwe
 
-# Local environment
-.venv/
-env/
-venv/
-.env
+# Development and temporary scripts
+create_template.py
+final_check.py
+find_*.py
+generate_computo*.py
+verify_*.py
+convert_xlsx_to_xpwe.py
+Avvia_Convertitore.bat
